@@ -28,4 +28,4 @@ NLP_Preprocessing.ipynb: 전처리 과정입니다.
 
 
 ---
-자세한 내용은 pdf를 참조해주시기 바랍니다.
+자세한 내용은 Improving Unethical Dialogue Identification in Korean Text using CoMPM.pdf를 참조해주시기 바랍니다.
