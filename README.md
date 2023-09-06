@@ -16,11 +16,11 @@ F1 점수를 사용하여 문맥을 고려하지 않은 모델과 우리 모델�
 <img width="600" alt="Dialogue" src="https://github.com/RaSangW/Ethics-Detection-CoMPM/assets/52962920/a2eeb58c-ab97-438e-b651-4053f08db0ea">
 
 ##### 파일 설명
-Model_CoMPM.ipynb: 사전학습 모델을 CoM과 PM구조를 결합한 모델에 대입하여 비윤리적 대화를 판별합니다.
-Model_CoM.ipynb: 사전학습 모델을 CoM구조에 대입하여 비윤리적 대화를 학습시킵니다.
-Model_PM.ipynb: 사전학습 모델을 PM구조에 대입하여 비윤리적 대화를 학습시킵니다.
-Model_KcELECTRA.ipynb: KcELCTRA를 사용하여, 비윤리적 대화를 학습시킵니다.
-NLP_Preprocessing.ipynb: 전처리 과정입니다.
+Model_CoMPM.ipynb: 사전학습 모델을 CoM과 PM구조를 결합한 모델에 대입하여 비윤리적 대화를 판별합니다. 
+Model_CoM.ipynb: 사전학습 모델을 CoM구조에 대입하여 비윤리적 대화를 학습시킵니다. 
+Model_PM.ipynb: 사전학습 모델을 PM구조에 대입하여 비윤리적 대화를 학습시킵니다. 
+Model_KcELECTRA.ipynb: KcELCTRA를 사용하여, 비윤리적 대화를 학습시킵니다. 
+NLP_Preprocessing.ipynb: 전처리 과정입니다. 
 
 ---
 자세한 내용은 pdf를 참조해주시기 바랍니다.
